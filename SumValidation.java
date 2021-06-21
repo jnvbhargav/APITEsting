@@ -6,6 +6,7 @@ import Files.payload;
 import io.restassured.path.json.JsonPath;
 
 public class SumValidation {
+	
 	@Test
 	public void sumOfCources()
 	{
